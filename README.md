@@ -4,3 +4,5 @@
 ![Screenshot_20240513_050455](https://github.com/Anuragroyan/HappyPlacesApp/assets/38952781/35f55e90-88de-491d-8aea-32c3fa511f20)
 ![Screenshot 2024-05-13 050600](https://github.com/Anuragroyan/HappyPlacesApp/assets/38952781/07eb3c42-6ab0-4202-9701-7e3f6e2e1cb4)
 ![Screenshot 2024-05-13 050657](https://github.com/Anuragroyan/HappyPlacesApp/assets/38952781/44b8c00b-a2b7-436a-b778-46f2f4a437b1)
+![Screenshot_20240513_052908](https://github.com/Anuragroyan/HappyPlacesApp/assets/38952781/eb2d7dfa-fd93-4ffb-8376-08547bb92804)
+![Screenshot_20240513_052920](https://github.com/Anuragroyan/HappyPlacesApp/assets/38952781/45758fa6-7c53-4613-8185-a9d4be3c0530)
